@@ -2,6 +2,8 @@
 ### Hi there 👋
 -->
 
+Test message
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

@@ -20,4 +20,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Java   1 hr 3 mins     ███████████████████████░░   92.64 %
+Rust   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+```
+
 <!--END_SECTION:waka-->

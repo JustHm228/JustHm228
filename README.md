@@ -1,4 +1,6 @@
-Why WakaTime isn't working? :(
+WakaTime is working nice!
+I think that I should find a documentation to configure it for myself.
+Next commit will be more "useful" )
 
 <!--
 ### Hi there 👋

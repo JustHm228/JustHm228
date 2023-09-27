@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustHm228&show-icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-profile-trophy.vercel.app/?username=JustHm228)](https://github.com/JustHm228/JustHm228)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustHm228&repo=JLatenter)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustHm228)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-profile-trophy.vercel.app/?username=JustHm228&show-icons=true&theme=transparent)](https://github.com/JustHm228/JustHm228)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustHm228&repo=JLatenter&show-icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustHm228&show-icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 TODO: Write something here.
 

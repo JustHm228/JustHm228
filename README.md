@@ -1,6 +1,11 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JustHm228&show-icons=true&layout=compact&theme=gotham" />
-</a>
+<!--
+### <a href="https://github.com/anuraghazra/github-readme-stats">
+###   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JustHm228&show-icons=true&layout=compact&theme=gotham" />
+### </a>
+### <a href="https://github.com/anuraghazra/github-readme-stats">
+###   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustHm228&show-icons=true&layout=compact&theme=gotham" />
+### </a>
+-->
 
 <!--
 ### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustHm228&show-icons=true&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,12 +18,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JustHm228&show-icons=true&layout=compact&theme=gotham" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustHm228&show-icons=true&layout=compact&theme=gotham" />
-</a>
-
-TODO: Write something here.
 
 <!--
 ### Hi there 👋

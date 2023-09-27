@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustHm228&show-icons=true&theme=transparent&no-frame=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustHm228&show-icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-profile-trophy.vercel.app/?username=JustHm228)
 
 TODO: Write something here.

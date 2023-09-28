@@ -1,8 +1,6 @@
 <a href="https://github.com/JustHm228">
-    <img src="https://github-readme-stats.vercel.app/api?username=JustHm228&show_icons=true&layout=compact&theme=gotham" />
-    <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JustHm228&show-icons=true&layout=compact&theme=gotham" />
-  </a>
-</p>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JustHm228&show-icons=true&layout=compact&theme=gotham" />
+</a>
 
 <!--
 ### Hi there 👋
